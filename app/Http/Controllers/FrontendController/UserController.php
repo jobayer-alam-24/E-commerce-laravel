@@ -22,4 +22,7 @@ class UserController extends Controller
     public function skills(){
         return view("frontendviews.skill");
     }
+    public function footer(){
+        return view('frontendviews.footer');
+    }
 }

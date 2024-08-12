@@ -9,8 +9,9 @@
 <body>
     <h1>Home Page</h1>
     <a href="/contact">contact</a>
-    <a href="/about">about me</a>
+    <a href="/about">about</a>
     <a href="/courses">courses</a>
     <a href="/skills">skills</a>
+    <a href="/footer">footer</a>
 </body>
 </html>

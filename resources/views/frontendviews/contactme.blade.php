@@ -10,7 +10,7 @@
     <h1>Contact me</h1>
     <a href="/">home</a>
     <a href="/courses">courses</a>
-    <a href="/about">about me</a>
+    <a href="/about">about</a>
     <a href="/skills">skills</a>
 </body>
 </html>
