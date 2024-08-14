@@ -7,13 +7,13 @@
                 <div class="home__category-outer">
                     <ul class="header__category-list">
                         <li class="header__category-list-item item-has-submenu">
-                            <a href="category-product.html" class="header__category-list-item-link">
+                            <a href="/category" class="header__category-list-item-link">
                                 <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="category">
                                 Test Category
                             </a>
                             <ul class="header__nav-item-category-submenu">
                                 <li class="header__category-submenu-item">
-                                    <a href="sub-category-product.html" class="header__category-submenu-item-link">
+                                    <a href="/sub_category" class="header__category-submenu-item-link">
                                         Test Subcategory
                                     </a>
                                 </li>
@@ -81,18 +81,18 @@
                 <h1 class="title">
                     Hot Products
                 </h1>
-                <a href="type-products.html" class="product-view-all-btn">
+                <a href="/product_type" class="product-view-all-btn">
                     View All
                 </a>
             </div>
             <div class="product-items-wrapper">
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -118,11 +118,11 @@
                 </div>
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -148,11 +148,11 @@
                 </div>
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -187,18 +187,18 @@
                 <h1 class="title">
                     New Arrival
                 </h1>
-                <a href="type-products.html" class="product-view-all-btn">
+                <a href="/product_type" class="product-view-all-btn">
                     View All
                 </a>
             </div>
             <div class="product-items-wrapper">
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product1.jpg')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -224,11 +224,11 @@
                 </div>
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -254,11 +254,11 @@
                 </div>
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -293,18 +293,18 @@
                 <h1 class="title">
                     Regular Products
                 </h1>
-                <a href="type-products.html" class="product-view-all-btn">
+                <a href="/product_type" class="product-view-all-btn">
                     View All
                 </a>
             </div>
             <div class="product-items-wrapper">
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -330,11 +330,11 @@
                 </div>
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -360,11 +360,11 @@
                 </div>
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -399,18 +399,18 @@
                 <h1 class="title">
                     Discount Products
                 </h1>
-                <a href="type-products.html" class="product-view-all-btn">
+                <a href="/product_type" class="product-view-all-btn">
                     View All
                 </a>
             </div>
             <div class="product-items-wrapper">
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product1.jpg')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -436,11 +436,11 @@
                 </div>
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
@@ -466,11 +466,11 @@
                 </div>
                 <div class="product__item-outer">
                     <div class="product__item-image-outer">
-                        <a href="details.html" class="product__item-image-inner">
+                        <a href="/product_details" class="product__item-image-inner">
                             <img src="{{asset('/frontendassets/assets/images/product.png')}}" alt="Product Image" />
                         </a>
                         <div class="product__item-add-cart-btn-outer">
-                            <a href="details.html" class="product__item-add-cart-btn-inner">
+                            <a href="/product_details" class="product__item-add-cart-btn-inner">
                                 Add to Cart
                             </a>
                         </div>
