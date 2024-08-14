@@ -1,7 +1,7 @@
 <footer class="footer-section">
     <div class="footer__top-wrapper">
         <div class="container">
-            <a href="index.html" class="footer__brand-logo-outer">
+            <a href="/" class="footer__brand-logo-outer">
                 <img src="{{asset('/frontendassets/assets/images/logo.png')}}" class="footer__brand-logo-inner" />
             </a>
         </div>
@@ -16,22 +16,22 @@
                         </h4>
                         <ul class="footer__list">
                             <li class="footer__list-item">
-                                <a href="privacy-policy.html" class="footer__list-item-link">
+                                <a href="/privacy_policy" class="footer__list-item-link">
                                     Privacy Policy
                                 </a>
                             </li>
                             <li class="footer__list-item">
-                                <a href="#" class="footer__list-item-link">
+                                <a href="/" class="footer__list-item-link">
                                     Terms & Conditions
                                 </a>
                             </li>
                             <li class="footer__list-item">
-                                <a href="#" class="footer__list-item-link">
+                                <a href="/" class="footer__list-item-link">
                                     Refund Policy
                                 </a>
                             </li>
                             <li class="footer__list-item">
-                                <a href="#" class="footer__list-item-link">
+                                <a href="/" class="footer__list-item-link">
                                     Payment Policy
                                 </a>
                             </li>
@@ -78,7 +78,7 @@
                         </h4>
                         <ul class="footer__list">
                             <li class="footer__list-item">
-                                <a href="#" class="footer__list-item-link">
+                                <a href="/" class="footer__list-item-link">
                                     About Us
                                 </a>
                             </li>
@@ -88,12 +88,12 @@
                                 </a>
                             </li>
                             <li class="footer__list-item">
-                                <a href="#" class="footer__list-item-link">
+                                <a href="/" class="footer__list-item-link">
                                     Blog
                                 </a>
                             </li>
                             <li class="footer__list-item">
-                                <a href="#" class="footer__list-item-link">
+                                <a href="/" class="footer__list-item-link">
                                     Careers
                                 </a>
                             </li>
@@ -107,22 +107,22 @@
                         </h4>
                         <ul class="footer__social-list">
                             <li class="footer__social-list-item">
-                                <a href="#" class="footer__social-list-item-lisk">
+                                <a href="/" class="footer__social-list-item-lisk">
                                     <i class="fab fa-facebook-f"></i>
                                 </a>
                             </li>
                             <li class="footer__social-list-item">
-                                <a href="#" class="footer__social-list-item-lisk">
+                                <a href="/" class="footer__social-list-item-lisk">
                                     <i class="fab fa-twitter"></i>
                                 </a>
                             </li>
                             <li class="footer__social-list-item">
-                                <a href="#" class="footer__social-list-item-lisk">
+                                <a href="/" class="footer__social-list-item-lisk">
                                     <i class="fab fa-instagram"></i>
                                 </a>
                             </li>
                             <li class="footer__social-list-item">
-                                <a href="#" class="footer__social-list-item-lisk">
+                                <a href="/" class="footer__social-list-item-lisk">
                                     <i class="fab fa-youtube"></i>
                                 </a>
                             </li>
