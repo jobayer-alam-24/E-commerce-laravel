@@ -2,7 +2,7 @@
 @section('content')
 <section class="cart-products-section">
     <div class="container">
-        <a href="index.html" class="continue-shopping-btn">
+        <a href="/" class="continue-shopping-btn">
             <i class="fas fa-long-arrow-alt-left"></i>
             Continue Shopping
         </a>
@@ -33,7 +33,7 @@
                             <input type="number" name="qty" readonly value="300" min="1" />
                         </td>
                         <td>
-                            <a href="#" class="remove-product">Remove</a>
+                            <a href="/" class="remove-product">Remove</a>
                         </td>
                         <td class="cart-product-total-outer">
                             ৳ 300
@@ -43,7 +43,7 @@
             </table>
         </div>
         <div class="text-center">
-            <a href="checkout.html" class="process-checkout-btn">
+            <a href="/product_checkout" class="process-checkout-btn">
                 Proceed To CheckOut
                 <i class="fas fa-sign-out-alt"></i>
             </a>
