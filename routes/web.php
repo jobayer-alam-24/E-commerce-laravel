@@ -15,3 +15,4 @@ Route::get('/sub_category', [UserController::class, 'subcategory']);
 Route::get('/thank_user', [UserController::class, "thank"]);
 Route::get('/product_type', [UserController::class, "productType"]);
 Route::get('/view_products', [UserController::class, "viewProducts"]);
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
