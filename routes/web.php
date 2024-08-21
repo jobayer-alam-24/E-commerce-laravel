@@ -1,7 +1,10 @@
 <?php
 
+use App\Http\Controllers\Backend\AuthenticationController;
+use App\Http\Controllers\Backend\DashboardController;
 use App\Http\Controllers\FrontendController\UserController;
 use App\Models\User;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', [UserController::class, "index"]);
@@ -18,5 +21,6 @@ Route::get('/view_products', [UserController::class, "viewProducts"]);
 
 
 Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+//login routes
+Route::get('/admin/login', [AuthenticationController::class, "adminLogin"])->name("adminLogin");
+Route::get('/admin/dashboard', [DashboardController::class, "dashboard"])->name("dashboard");
