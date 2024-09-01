@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\Backend\AuthenticationController;
 use App\Http\Controllers\Backend\DashboardController;
+use App\Http\Controllers\Backend\ProductController;
 use App\Http\Controllers\FrontendController\UserController;
 use App\Models\User;
 use Illuminate\Support\Facades\Auth;
@@ -24,3 +25,5 @@ Auth::routes();
 //login routes
 Route::get('/admin/login', [AuthenticationController::class, "adminLogin"])->name("adminLogin");
 Route::get('/admin/dashboard', [DashboardController::class, "dashboard"])->name("dashboard");
+//Product Routes
+Route::get('/admin/create-product', [ProductController::class, "create"])->name("product.create");

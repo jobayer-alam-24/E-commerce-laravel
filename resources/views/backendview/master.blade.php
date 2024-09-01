@@ -29,5 +29,6 @@
 
 <!-- jQuery -->
 @include('backendview.includes.js')
+@stack('js')
 </body>
 </html>
