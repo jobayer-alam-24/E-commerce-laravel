@@ -26,4 +26,4 @@ Auth::routes();
 Route::get('/admin/login', [AuthenticationController::class, "adminLogin"])->name("adminLogin");
 Route::get('/admin/dashboard', [DashboardController::class, "dashboard"])->name("dashboard");
 //Product Routes
-Route::get('/admin/create-product', [ProductController::class, "create"])->name("product.create");
+Route::get('/admin/create-product', [ProductController::class, "create"])->name("create");
